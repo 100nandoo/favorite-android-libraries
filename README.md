@@ -20,7 +20,7 @@ My personal favorite libraries.
 * [Security](#security)
 * [Time](#time)
 * [Video](#video)
-* [Z-Other](#other)
+* [Z-Other](#z-Other)
 
 ## Camera
 Name | Repository | License
